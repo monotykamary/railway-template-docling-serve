@@ -1,2 +1,2 @@
-FROM ghcr.io/docling-project/docling-serve-cpu:v1.29.0@sha256:3f8b02dacde31791ae1069c93accf0f523fa6de8062ede157dbfbcfc8446bb16
+FROM ghcr.io/docling-project/docling-serve-cpu:v1.30.0@sha256:061d35c03611bc15b73d024c8e8387bcf0624279f8b57c16c1567326f214ba56
 EXPOSE 5001

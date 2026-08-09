@@ -2,8 +2,8 @@
 
 ## Docling Serve
 
-- Version: 1.29.0
-- Source: https://github.com/docling-project/docling-serve/tree/v1.29.0
+- Version: 1.30.0
+- Source: https://github.com/docling-project/docling-serve/tree/v1.30.0
 - Copyright: Docling contributors
 - License: MIT
 
