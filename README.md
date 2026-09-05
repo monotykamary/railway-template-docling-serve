@@ -2,7 +2,7 @@
 
 [![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/docling-serve?referralCode=ZqgrJ0)
 
-Deploy the official CPU-only Docling Serve 1.31.0 image as an API-key-protected document conversion service.
+Deploy the official CPU-only Docling Serve 1.32.0 image as an API-key-protected document conversion service.
 
 The Deploy on Railway button is added after the published route is verified.
 
@@ -26,8 +26,8 @@ Update the pinned image digest deliberately and repeat API-key rejection, markdo
 
 ## Upstream
 
-- Source: https://github.com/docling-project/docling-serve/tree/v1.31.0
-- Release: https://github.com/docling-project/docling-serve/releases/tag/v1.31.0
+- Source: https://github.com/docling-project/docling-serve/tree/v1.32.0
+- Release: https://github.com/docling-project/docling-serve/releases/tag/v1.32.0
 - License: MIT
 
 This repository contains Railway configuration and documentation. Docling Serve remains copyright its upstream contributors and is not affiliated with Railway.
