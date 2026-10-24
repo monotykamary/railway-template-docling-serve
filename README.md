@@ -26,8 +26,8 @@ Update the pinned image digest deliberately and repeat API-key rejection, markdo
 
 ## Upstream
 
-- Source: https://github.com/docling-project/docling-serve/tree/v1.37.0
-- Release: https://github.com/docling-project/docling-serve/releases/tag/v1.37.0
+- Source: https://github.com/docling-project/docling-serve/tree/v1.38.1
+- Release: https://github.com/docling-project/docling-serve/releases/tag/v1.38.1
 - License: MIT
 
 This repository contains Railway configuration and documentation. Docling Serve remains copyright its upstream contributors and is not affiliated with Railway.
